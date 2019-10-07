@@ -1,0 +1,689 @@
+All,Todos,module,Magento_AdminGws
+None,Nenhum,module,Magento_AdminGws
+"Allowed Scopes","Escopos Permitidos",module,Magento_AdminGws
+"More permissions are needed to delete the ""%1"" item.","São necessárias mais permissões para excluir o item ""%1"".",module,Magento_AdminGws
+"You need more permissions to apply some of the rule updates.","Você precisa de mais permissões para aplicar algumas das atualizações de regras.",module,Magento_AdminGws
+"This entity needs to be assigned to a store view. Verify the entity assignment and try again.","Esta entidade precisa ser atribuída a uma visão de loja. Verifique a atividade da entidade e tente novamente.",module,Magento_AdminGws
+"Orders can only be completed in an active store. Verify the store and try again.","Pedidos só podem ser concluídos em uma loja ativa. Verifique a loja e tente novamente.",module,Magento_AdminGws
+"This item needs to be assigned to a store view. Assign item and try again.","Este item precisa ser atribuído a uma visão de loja. Atribua o item e tentar novamente.",module,Magento_AdminGws
+"More permissions are needed to save this item.","Mais permissões são necessárias para salvar este item.",module,Magento_AdminGws
+"More permissions are needed to delete this item.","Mais permissões são necessárias para excluir este item.",module,Magento_AdminGws
+"More permissions are needed to view this item.","Mais permissões são necessárias para exibir este item.",module,Magento_AdminGws
+"At least one website or store group needs to be selected. Select and try again.","Pelo menos um site ou grupo de loja precisa ser selecionado. Selecione e tente novamente.",module,Magento_AdminGws
+"More permissions are needed to set All Scopes to a Role.","São necessárias mais permissões para definir Todos os Escopo para uma Função.",module,Magento_AdminGws
+"The ""%1"" website ID is incorrect. Verify the website ID and try again.","O ID do site ""%1"" está incorreto. Verifique o ID do site e tente novamente.",module,Magento_AdminGws
+"You need more permissions to access website ""%1"".","Você precisa ter mais permissões para acessar o website ""%1"".",module,Magento_AdminGws
+"The ""%1"" store ID is incorrect. Verify the store ID and try again.","O ""%1"" ID da loja está incorreto. Verifique o ID da loja e tente novamente.",module,Magento_AdminGws
+"More permissions are needed to save this setting.","São necessárias mais permissões para salvar esta configuração.",module,Magento_AdminGws
+"Role Scopes","Escopos da Regra",module,Magento_AdminGws
+Custom,Personalizado,module,Magento_AdminGws
+"Read Details","Ler Detalhes",module,Magento_AdminNotification
+"Mark as Read","Marcar como Lido",module,Magento_AdminNotification
+"Are you sure?","Você tem certeza?",module,Magento_AdminNotification
+Remove,Remover,module,Magento_AdminNotification
+"Messages Inbox","Caixa de Entrada de Mensagens",module,Magento_AdminNotification
+"You have %1 new system messages","Você têm novas mensagens do sistema %1",module,Magento_AdminNotification
+"You have %1 new system message","Você tem %1 nova(s) mensagem(ns) de sistema",module,Magento_AdminNotification
+"Incoming Message","Nova mensagem",module,Magento_AdminNotification
+close,fechar,module,Magento_AdminNotification
+Notifications,Notificações,module,Magento_AdminNotification
+"The message has been marked as Read.","A mensagem foi marcada como Lida.",module,Magento_AdminNotification
+"We couldn't mark the notification as Read because of an error.","Não foi possível marcar a notificação como Lida porque ocorreu um erro.",module,Magento_AdminNotification
+"You did not sign in correctly or your account is temporarily disabled.","Você não fez login corretamente ou sua conta está temporariamente desativada.",module,Magento_AdminNotification
+"Please select messages.","Por favor, selecione as mensagens.",module,Magento_AdminNotification
+"A total of %1 record(s) have been marked as Read.","Um total de %1 registro(s) foi marcado como Lido.",module,Magento_AdminNotification
+"Total of %1 record(s) have been removed.","Um total de %1 registro(s) foi removido.",module,Magento_AdminNotification
+"We couldn't remove the messages because of an error.","Não foi possível remover as mensagens porque ocorreu um erro.",module,Magento_AdminNotification
+"The message has been removed.","A mensagem foi removida.",module,Magento_AdminNotification
+"You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.","Você visualizou e resolveu todos os avisos recentes do sistema. Atualize a página da web para limpar o alerta de aviso.",module,Magento_AdminNotification
+"1 Hour","1 Hora",module,Magento_AdminNotification
+"2 Hours","2 Horas",module,Magento_AdminNotification
+"6 Hours","6 Horas",module,Magento_AdminNotification
+"12 Hours","12 Horas",module,Magento_AdminNotification
+"24 Hours","24 Horas",module,Magento_AdminNotification
+critical,crítico,module,Magento_AdminNotification
+major,importante,module,Magento_AdminNotification
+minor,secundário,module,Magento_AdminNotification
+notice,aviso,module,Magento_AdminNotification
+"Wrong message type","Tipo de mensagem incorreto",module,Magento_AdminNotification
+"Wrong notification ID specified.","O ID da notificação especificado é inválido.",module,Magento_AdminNotification
+"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","A URL {{base_url}} não é recomendada em ambiente de produção para declarar a URL Base Insegura / URL Base Segura. É altamente recomendado alterar este valor na <a href=""%1"">configuração</a> do Magento.",module,Magento_AdminNotification
+"One or more of the Cache Types are invalidated: %1.","Um ou mais dos tipos de cache estão invalidados: %1.",module,Magento_AdminNotification
+"Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","Por favor, acesse o <a href=""%1"">Gerenciamento de Cache</a> e atualize tipos de cache.",module,Magento_AdminNotification
+"We were unable to synchronize one or more media files. Please refer to the log file for details.","Não foi possível sincronizar um ou mais arquivo de media. Consulte o arquivo de log para obter detalhes.",module,Magento_AdminNotification
+"Synchronization of media storages has been completed.","Sincronização dos armazenamentos de mídia foi concluída.",module,Magento_AdminNotification
+"Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.","Seu servidor web está configurado incorretamente e permite o acesso não autorizado a arquivos sensíveis. Por favor, entre em contato com seu fornecedor de hospedagem.",module,Magento_AdminNotification
+"System Messages:","Mensagens do sistema:",module,Magento_AdminNotification
+"Critical System Messages","Mensagens do sistema crítica",module,Magento_AdminNotification
+"Major System Messages","Principais mensagens do sistema",module,Magento_AdminNotification
+"System messages","Mensagem do sistema",module,Magento_AdminNotification
+Close,Fechar,module,Magento_AdminNotification
+"See All (","Ver Todos (",module,Magento_AdminNotification
+unread),"não lido(s))",module,Magento_AdminNotification
+"Show Toolbar","Mostrar Barra de Ferramentas",module,Magento_AdminNotification
+"Show List","Exibir Lista",module,Magento_AdminNotification
+"Use HTTPS to Get Feed","Use HTTPS para Obter o Feed",module,Magento_AdminNotification
+"Update Frequency","Frequência de atualização",module,Magento_AdminNotification
+"Last Update","Última atualização",module,Magento_AdminNotification
+Severity,Gravidade,module,Magento_AdminNotification
+"Date Added","Data de inclusão",module,Magento_AdminNotification
+Message,Mensagem,module,Magento_AdminNotification
+Actions,Ações,module,Magento_AdminNotification
+"Manage Shopping Cart","Gerenciar Carrinho de Compras",module,Magento_AdvancedCheckout
+"Create Order","Criar Pedido",module,Magento_AdvancedCheckout
+Back,Voltar,module,Magento_AdvancedCheckout
+"Add Products","Adicionar Produtos",module,Magento_AdvancedCheckout
+"Update Items and Quantities","Atualizar Itens e Quantidades",module,Magento_AdvancedCheckout
+"Are you sure you want to clear your cart?","Tem certeza de que deseja limpar seu carrinho?",module,Magento_AdvancedCheckout
+"Clear my shopping cart","Limpar meu carrinho de compras",module,Magento_AdvancedCheckout
+"Add selections to my cart","Adicionar produtos selecionados ao carrinho",module,Magento_AdvancedCheckout
+Cancel,Cancelar,module,Magento_AdvancedCheckout
+"Shopping Cart for %1 in %2","Carrinho de compras para %1 em %2",module,Magento_AdvancedCheckout
+"Select products you want to buy","Selecione os produtos que você pretende comprar",module,Magento_AdvancedCheckout
+Product,Produto,module,Magento_AdvancedCheckout
+Price,Preço,module,Magento_AdvancedCheckout
+Quantity,Quantidade,module,Magento_AdvancedCheckout
+"Products in the Comparison List (%1)","Produtos na Lista de Comparação (%1)",module,Magento_AdvancedCheckout
+"Last ordered items (%1)","Últimos itens adquiridos (%1)",module,Magento_AdvancedCheckout
+Products,Produtos,module,Magento_AdvancedCheckout
+ID,ID,module,Magento_AdvancedCheckout
+SKU,SKU,module,Magento_AdvancedCheckout
+"Recently Compared Products (%1)","Produtos Comparados Recentemente (%1)",module,Magento_AdvancedCheckout
+"Recently Viewed Products (%1)","Produtos Visualizados Recentemente (%1)",module,Magento_AdvancedCheckout
+"Add to Shopping Cart by SKU","Adicionar no Carrinho de Compras por SKU",module,Magento_AdvancedCheckout
+"Add to Shopping Cart","Adicionar ao Carrinho de Compras",module,Magento_AdvancedCheckout
+"Wish List (%1)","Lista de Desejos (%1)",module,Magento_AdvancedCheckout
+Apply,Aplicar,module,Magento_AdvancedCheckout
+Configure,Configurar,module,Magento_AdvancedCheckout
+"Add to Order by SKU","Adicionar no Pedido por SKU",module,Magento_AdvancedCheckout
+"Add to Order","Adicionar no Pedido",module,Magento_AdvancedCheckout
+"Add Products to Order","Adicionar Produtos no Pedido",module,Magento_AdvancedCheckout
+"<span><span id=""sku-attention-num"">%1</span> product(s) require attention.</span>","<span><span id=""sku-attention-num"">%1</span> produto(s) requer(em) atenção.</span>",module,Magento_AdvancedCheckout
+"Remove All","Remover Todos",module,Magento_AdvancedCheckout
+"Only %1%2%3 left in stock","Somente %1%2%3 restam no estoque",module,Magento_AdvancedCheckout
+"You can buy up to %1 of these per purchase.","Você pode adquirir até %1 unidades por compra.",module,Magento_AdvancedCheckout
+"You must buy at least %1 of these per purchase.","Você deve adquirir ao menos %1 unidades por compra.",module,Magento_AdvancedCheckout
+"Specify the product's options.","Especifique as opções do produto.",module,Magento_AdvancedCheckout
+"Alert me when this item is available.","Avise-me quando este item estiver disponível.",module,Magento_AdvancedCheckout
+"This customer couldn't be found. Verify the customer and try again.","Este cliente não pôde ser encontrado. Verifique o cliente e tente novamente.",module,Magento_AdvancedCheckout
+"Shopping cart management is disabled for this customer.","Gestão de carrinho de compras está desabilitado para este cliente.",module,Magento_AdvancedCheckout
+"This store couldn't be found. Verify the store and try again.","Esta loja não pôde ser encontrada. Verifique a loja e tente novamente.",module,Magento_AdvancedCheckout
+Customers,Clientes,module,Magento_AdvancedCheckout
+"Shopping Cart","Carrinho de Compras",module,Magento_AdvancedCheckout
+"An error occurred. For details, see the error log.","Ocorreu um erro. Para mais detalhes, veja o log de erro.",module,Magento_AdvancedCheckout
+"You do not have access to this.","Você não tem acesso.",module,Magento_AdvancedCheckout
+"Orders can only be completed in an active store. Verify the store and try again.","Pedidos só podem ser concluídos em uma loja ativa. Verifique a loja e tente novamente.",module,Magento_AdvancedCheckout
+"The ordered item needs to be loaded. Load the item and try again.","O item ordenado precisa ser carregado. Carregue o item e tente novamente.",module,Magento_AdvancedCheckout
+"The quote item ID needs to be received. Set the ID and try again.","O ID do item de cotação precisa ser recebido. Defina o ID e tente novamente.",module,Magento_AdvancedCheckout
+"The quote item needs to be loaded. Load the item and try again.","O item de cotação precisa ser carregado. Carregue o item e tente novamente.",module,Magento_AdvancedCheckout
+"The wish list item ID needs to be received. Set the ID and try again.","O ID da lista de desejos precisa ser recebido. Defina o ID e tente novamente.",module,Magento_AdvancedCheckout
+"The wish list item needs to be loaded. Load the item and try again.","O item da lista de desejos precisa ser carregado. Carregue o item e tente novamente.",module,Magento_AdvancedCheckout
+"An error has occurred. See error log for details.","Ocorreu um erro. Consulte o log de erros para obter detalhes.",module,Magento_AdvancedCheckout
+"You cannot configure a product.","Você não pode configurar um produto.",module,Magento_AdvancedCheckout
+"You removed the items.","Você removeu os itens.",module,Magento_AdvancedCheckout
+"You removed the item.","Você removeu o item.",module,Magento_AdvancedCheckout
+"You added %1 to your shopping cart.","Você adicionou %1 ao carrinho de compras.",module,Magento_AdvancedCheckout
+"You cannot add a product.","Você não pode adicionar um produto.",module,Magento_AdvancedCheckout
+"Order by SKU","Ordenar por SKU",module,Magento_AdvancedCheckout
+"The SKU was not found in the catalog.","O SKU não foi encontrado no catálogo.",module,Magento_AdvancedCheckout
+"Availability: Out of stock.","Disponibilidade: Sem estoque.",module,Magento_AdvancedCheckout
+"We don't have as many of these as you want.","Não temos tantos quanto você deseja.",module,Magento_AdvancedCheckout
+"You can't add this many to your cart.","Não é possível adicionar esta quantidade no seu carrinho.",module,Magento_AdvancedCheckout
+"You need to choose options for your item.","Você precisa escolher opções para seu item.",module,Magento_AdvancedCheckout
+"We can't add the item to your cart.","Nós foi possível adicionar o item ao seu carrinho.",module,Magento_AdvancedCheckout
+"Please enter an actual number in the ""Qty"" field.","Por favor, digite um número atual no campo ""Qtd"".",module,Magento_AdvancedCheckout
+"This product is assigned to another website.","Este produto está atribuído a outro website.",module,Magento_AdvancedCheckout
+"You can add only enabled products.","Você pode adicionar somente produtos habilitados.",module,Magento_AdvancedCheckout
+"You cannot upload this file.","Você não pode enviar este arquivo.",module,Magento_AdvancedCheckout
+"The file is empty.","O arquivo está vazio.",module,Magento_AdvancedCheckout
+"You have not entered a product SKU. Please <a href=""%1"">click here</a> to add product(s) by SKU.","Você não inseriu um SKU de produto. Por favor, <a href=""%1"">clique aqui</a> para adicionar produto(s) pelo SKU.",module,Magento_AdvancedCheckout
+"You have not entered a product SKU.","Você não inseriu um SKU de produto.",module,Magento_AdvancedCheckout
+"We can't add a product to cart by id ""%1"".","Não foi possível adicionar um produto no carrinho pelo id ""%1"".",module,Magento_AdvancedCheckout
+"Something went wrong while reordering this product.","Algo deu errado durante a reordenação deste produto.",module,Magento_AdvancedCheckout
+"We can't find this wish list.","Esta lista de desejos não foi encontrada.",module,Magento_AdvancedCheckout
+"You added %1 product to your shopping cart.","Você adicionou %1 produto ao carrinho de compras.",module,Magento_AdvancedCheckout
+"You added %1 products to your shopping cart.","Você adicionou %1 produtos ao carrinho de compras.",module,Magento_AdvancedCheckout
+"%1 product requires your attention.","%1 produto requer sua atenção.",module,Magento_AdvancedCheckout
+"%1 products require your attention.","%1 produtos requerem sua atenção.",module,Magento_AdvancedCheckout
+"Yes, for Specified Customer Groups","Sim, para o Grupo de Clientes Especificado",module,Magento_AdvancedCheckout
+"Yes, for Everyone","Sim, para Todos",module,Magento_AdvancedCheckout
+No,Não,module,Magento_AdvancedCheckout
+"The file is corrupt and can't be used.","O arquivo está corrompido e não pode ser usado.",module,Magento_AdvancedCheckout
+"Please upload the file in .csv format.","Por favor carregue o arquivo em formato .csv",module,Magento_AdvancedCheckout
+"%1 item(s) need your attention.","%1 item(ns) precisa(m) de sua atenção.",module,Magento_AdvancedCheckout
+"Apply Coupon Code","Aplicar Cupom de Desconto",module,Magento_AdvancedCheckout
+"Remove Coupon Code","Remover Cupom de Desconto",module,Magento_AdvancedCheckout
+Remove,Remover,module,Magento_AdvancedCheckout
+"The coupon code ""%1"" is not valid.","O cupom de desconto ""%1"" é inválido.",module,Magento_AdvancedCheckout
+"Shopping Cart Items","Itens do Carrinho de Compras",module,Magento_AdvancedCheckout
+Qty,Qtd,module,Magento_AdvancedCheckout
+Subtotal,Subtotal,module,Magento_AdvancedCheckout
+Discount,Desconto,module,Magento_AdvancedCheckout
+"Row Subtotal","Linha de Subtotal",module,Magento_AdvancedCheckout
+Action,Ação,module,Magento_AdvancedCheckout
+"No ordered items","Não há itens solicitados",module,Magento_AdvancedCheckout
+"Total %1 product(s)","%1 produto(s) no total",module,Magento_AdvancedCheckout
+Subtotal:,Subtotal:,module,Magento_AdvancedCheckout
+"Please select","Selecione por favor",module,Magento_AdvancedCheckout
+"Move to Wish List","Mover para Lista de Desejos",module,Magento_AdvancedCheckout
+"No item specified.","Nenhum item especificado.",module,Magento_AdvancedCheckout
+"Are you sure you want to remove this item?","Tem certeza que deseja remover este item?",module,Magento_AdvancedCheckout
+"SKU number","Número do SKU",module,Magento_AdvancedCheckout
+"Upload File","Enviar Arquivo",module,Magento_AdvancedCheckout
+"Your csv file must include ""sku"" and ""qty"" columns.","Seu arquivo csv deve incluir as colunas ""sku"" e ""qty"".",module,Magento_AdvancedCheckout
+Reset,Reiniciar,module,Magento_AdvancedCheckout
+SKU:,SKU:,module,Magento_AdvancedCheckout
+"Only <span id=""%1_max_allowed"">%2</span> in stock","Só <span id=""%1_max_allowed"">%2</span> em estoque",module,Magento_AdvancedCheckout
+Item,Item,module,Magento_AdvancedCheckout
+"See price before order confirmation.","Ver preço antes de confirmar pedido.",module,Magento_AdvancedCheckout
+"What's this?","O que é isto?",module,Magento_AdvancedCheckout
+"Incl. Tax","Imposto Incl.",module,Magento_AdvancedCheckout
+"Excl. Tax","Excl. Impostos",module,Magento_AdvancedCheckout
+"Edit item parameters","Editar parâmetros do item",module,Magento_AdvancedCheckout
+Edit,Editar,module,Magento_AdvancedCheckout
+"Remove item","Remover item",module,Magento_AdvancedCheckout
+"Products Requiring Attention","Produtos que Requerem Atenção",module,Magento_AdvancedCheckout
+"Add to Cart","Adicionar ao Carrinho",module,Magento_AdvancedCheckout
+Sku,Sku,module,Magento_AdvancedCheckout
+File,Arquivo,module,Magento_AdvancedCheckout
+"File extensions allowed: .csv","Extensões de arquivos permitidas: .csv",module,Magento_AdvancedCheckout
+"Add Row","Adicionar linha",module,Magento_AdvancedCheckout
+"Remove Row","Remover linha",module,Magento_AdvancedCheckout
+"Add Products By SKU",按SKU添加产品,module,Magento_AdvancedCheckout
+"Shopping Cart Management","Gerenciamento do Carrinho de Compras",module,Magento_AdvancedCheckout
+"View Shopping Cart","Ver Carrinho de Compras",module,Magento_AdvancedCheckout
+"View and modify Shopping Cart","Ver e modificar Carrinho de Compras",module,Magento_AdvancedCheckout
+"Order by SKU Settings","Definições de Encomendar por SKU",module,Magento_AdvancedCheckout
+"Enable Order by SKU on My Account in Storefront","Ativar Encomendar por SKU na seção ""Minha Conta"" na loja",module,Magento_AdvancedCheckout
+"Customer Groups","Grupos de Cliente",module,Magento_AdvancedCheckout
+"Apply Coupon","Aplicar cupom",module,Magento_AdvancedCheckout
+"Order by SKU Description","Descrição de Encomendar por SKU",module,Magento_AdvancedCheckout
+"Display a Link to Loading a Spreadsheet","Exibir um Link para carregar uma planilha",module,Magento_AdvancedCheckout
+"Defines whether a link to My Account &gt; Order by SKU page will be displayed on the widget","Define se um link para a página Minha Conta &gt; Encomendar por SKU será exibido no widget",module,Magento_AdvancedCheckout
+"Link Text","Texto do link",module,Magento_AdvancedCheckout
+"The text of the link to the My Account &gt; Order by SKU page","O texto do link para a página Minha Conta &gt; Encomendar por SKU",module,Magento_AdvancedCheckout
+"Load a list of SKUs","Carregar uma lista de SKUs",module,Magento_AdvancedCheckout
+"Order by SKU Template","Modelo do Encomendar por SKU",module,Magento_AdvancedCheckout
+"Please correct the data sent.","Por favor, corrija os dados enviados.",module,Magento_AdvancedPricingImportExport
+"Entity type model '%1' is not found","Model do tipo de entidade '%1' não foi encontrado",module,Magento_AdvancedPricingImportExport
+"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","O modelo do tipo de entidade deve ser uma instância de \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_AdvancedPricingImportExport
+"There are no product types available for export","Nenhum tipo de produto está disponível para exportação",module,Magento_AdvancedPricingImportExport
+"%1 class doesn't implement \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface","A classe %1 não implementa \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface",module,Magento_AdvancedRule
+"Sales Rule","Regra de Vendas",module,Magento_AdvancedSalesRule
+"Index sales rule","Indexar regras de venda",module,Magento_AdvancedSalesRule
+"Related Search Terms","Últimos 5 Termos de Pesquisa",module,Magento_AdvancedSearch
+"Add New Search Term","Adicionar Novo Termo de Pesquisa",module,Magento_AdvancedSearch
+button_label,"rótulo do botão",module,Magento_AdvancedSearch
+"Missing search engine parameter.","Um parâmetro de motor de busca está em falta.",module,Magento_AdvancedSearch
+"Successful! Test again?","Sucesso! Testar de novo?",module,Magento_AdvancedSearch
+"Connection failed! Test again?","Conexão falhou. Testar de novo?",module,Magento_AdvancedSearch
+"Enable Search Recommendations","Ativar Recomendações de Pesquisa",module,Magento_AdvancedSearch
+"When you enable this option your site may slow down.","Quando esta opção está ativa o seu site poderá ficar mais lento.",module,Magento_AdvancedSearch
+"Search Recommendations Count","Contagem de Recomendações de Pesquisa",module,Magento_AdvancedSearch
+"Show Results Count for Each Recommendation","Mostrar Contagem de Resultados para Cada Recomendação",module,Magento_AdvancedSearch
+"Enable Search Suggestions","Ativar Sugestões de Pesquisa",module,Magento_AdvancedSearch
+"Search Suggestions Count","Contagem de Sugestões de Pesquisa",module,Magento_AdvancedSearch
+"Show Results Count for Each Suggestion","Mostrar Contagem de Resultados para Cada Sugestão",module,Magento_AdvancedSearch
+"Related search terms","Termos de pesquisa relacionados",module,Magento_AdvancedSearch
+"Did you mean","Você quis dizer",module,Magento_AdvancedSearch
+ID,ID,module,Magento_AdvancedSearch
+"Search Query","Termos de Pesquisa",module,Magento_AdvancedSearch
+Store,Loja,module,Magento_AdvancedSearch
+Results,Resultados,module,Magento_AdvancedSearch
+Uses,Usos,module,Magento_AdvancedSearch
+"Redirect URL","URL de redirecionamento",module,Magento_AdvancedSearch
+"Suggested Term","Termo Sugerido",module,Magento_AdvancedSearch
+Yes,Sim,module,Magento_AdvancedSearch
+No,Não,module,Magento_AdvancedSearch
+Action,Ação,module,Magento_AdvancedSearch
+Edit,Editar,module,Magento_AdvancedSearch
+"RPC call failed, connection timed out after %time_out.","A chamada RPC falhou, o tempo de conexão excedeu o limite após %time_out.",module,Magento_Amqp
+"Message has been rejected: %1","A mensagem foi rejeitada: %1",module,Magento_Amqp
+"Error while checking if topic is synchronous","Erro durante a verificação se tópico é síncrono",module,Magento_Amqp
+"Subscription status","Situação da assinatura",module,Magento_Analytics
+"Sorry, there has been an error processing your request. Please try again later.","Desculpe, ocorreu um erro ao processar o seu pedido. Por favor, tente novamente mais tarde.",module,Magento_Analytics
+"The time value is using an unsupported format. Enter a supported format and try again.","O valor digitado para hora/data não é válido, digite um valor válido e tente novamente.",module,Magento_Analytics
+"Cron settings can't be saved","Configurações do cron não podem ser salvas",module,Magento_Analytics
+"There was an error save new configuration value.","Houve um erro a salvar a nova configuração.",module,Magento_Analytics
+"Please select an industry.","Selecione uma indústria, por favor.",module,Magento_Analytics
+"--Please Select--","-- Por favor, selecione --",module,Magento_Analytics
+"Command was not found.","Comando não foi encontrado.",module,Magento_Analytics
+"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","Os dados inseridos são inválidos. Digite esses dados como uma ""string"" ou informe dados que podem ser convertidos em uma ""string"" e tente novamente.",module,Magento_Analytics
+"The data is invalid. Enter the data as a string and try again.","Os dados são inválidos. Insira os dados como uma sequência de caracteres e tente novamente.",module,Magento_Analytics
+"The data is invalid. Use a valid cipher method and try again.","Os dados são inválidos. Use um método de ""Criptografia"" válido e tente novamente.",module,Magento_Analytics
+"Enter the encryption key and try again.","Digite a chave de acesso e tente novamente.",module,Magento_Analytics
+"The ""%1"" source doesn't exist.","O Código fonte ""%1"" não foi encontrado.",module,Magento_Analytics
+"These arguments can't be empty ""%1""","Estes argumentos não podem ser vazios ""%1""",module,Magento_Analytics
+"Cannot find predefined integration user!","Não é possível encontrar o usuário de integração predefinido!",module,Magento_Analytics
+"File is not ready yet.","Arquivo ainda não está pronto.",module,Magento_Analytics
+"Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","O seu URL foi alterado e os seus relatórios estão a ser actualizados. Relatórios avançados estarão disponiveis após esta alteração estar completa. Por favor tente mais tarde.",module,Magento_Analytics
+"Failed to synchronize data to the Magento Business Intelligence service.","Falha ao sincronizar os dados para o Magento Business Intelligence service.",module,Magento_Analytics
+"Retry Synchronization","Tentar sincronizar novamente",module,Magento_Analytics
+TestMessage,"Mensagem de teste",module,Magento_Analytics
+"Apps and Games","Aplicativos e Jogos",module,Magento_Analytics
+"Athletic/Sporting Goods","Artigos Esportivos",module,Magento_Analytics
+"Art and Design","Arte e Design",module,Magento_Analytics
+"Advanced Reporting","Relatórios Avançados",module,Magento_Analytics
+"Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.","Ganhe novos pontos de vista e tome controlo dos resultados do seu negócio, usando os nossos relatórios dynamic product, pedidos, e clientes, trabalhados de acordo com os seus dados de clientes.",module,Magento_Analytics
+"Go to Advanced Reporting","Ir para Relatóros avançados",module,Magento_Analytics
+Analytics,Analítica,module,Magento_Analytics
+API,API,module,Magento_Analytics
+Configuration,Configuração,module,Magento_Analytics
+"Business Intelligence","Inteligência de Negócio BI",module,Magento_Analytics
+"BI Essentials","Essenciais de BI",module,Magento_Analytics
+"This service provides a dynamic suite of reports with rich insights about your business.
+                Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
+                ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
+                terms and conditions</a>.","Esse serviço oferece um conjunto dinâmico de relatórios com informações detalhadas sobre sua empresa.
+                Seus relatórios podem ser acessados ​​com segurança em um painel personalizado, fora do painel de administração, clicando no link
+                 ""Ir para relatórios avançados"". </ br> Para obter mais informações, consulte nossos <a href=""https://magento.com/legal/terms/cloud-terms"">
+                 termos e condições </a> .",module,Magento_Analytics
+"Advanced Reporting Service","Serviço Avançado de Relatório",module,Magento_Analytics
+"Time of day to send data","Horário do dia para enviar os dados",module,Magento_Analytics
+Industry,Industria,module,Magento_Analytics
+"In order to personalize your Advanced Reporting experience, please select your industry.","A fim de personalizar a sua experiência no Advanced Reporting, selecione por favor o seu ramo de atividade.",module,Magento_Analytics
+"<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Obter mais idéias do Magento Business Intelligence</strong>",module,Magento_Analytics
+"Magento Business Intelligence provides you with a simple and clear path to
+                    becoming more data driven.</br> Learn more about <a target=""_blank""
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","O Magento Business Intelligence oferece um caminho simples e claro para
+                     se tornar mais robusto. </ br> Mais informções <a target=""_blank""
+                     href=""https://dashboard.rjmetrics.com/v2/magento/signup/""> Magento BI Essentials e BI Pro </a> .",module,Magento_Analytics
+"Auto Parts",Autopeças,module,Magento_Analytics
+"Baby/Children’s Apparel, Gear and Toys","Vestuário bebê/infantil, artes e brinquedos",module,Magento_Analytics
+"Beauty and Cosmetics","Beleza e cosméticos",module,Magento_Analytics
+"Books, Music and Magazines","Livros, música e revistas",module,Magento_Analytics
+"Crafts and Stationery","Artesanato e artigos de papelaria",module,Magento_Analytics
+"Consumer Electronics",Eletrônicos,module,Magento_Analytics
+"Deal Site","Site de Ofertas",module,Magento_Analytics
+"Fashion Apparel and Accessories","Acessórios e vestuário de moda",module,Magento_Analytics
+"Food, Beverage and Grocery","Alimentos, bebidas e mercearia",module,Magento_Analytics
+"Home Goods and Furniture","Móveis e utensílios para casa",module,Magento_Analytics
+"Home Improvement","Melhorias para a Casa",module,Magento_Analytics
+"Jewelry and Watches","Joias e relógios",module,Magento_Analytics
+"Mass Merchant","Comerciante em massa",module,Magento_Analytics
+"Office Supplies","Material de escritório",module,Magento_Analytics
+"Outdoor and Camping Gear","Equipamento para ar livre e Camping",module,Magento_Analytics
+"Pet Goods","Produtos para animais de estimação",module,Magento_Analytics
+"Pharma and Medical Devices","Farmácia e dispositivos médicos",module,Magento_Analytics
+"Technology B2B","Tecnologia B2B",module,Magento_Analytics
+Other,Outro(s),module,Magento_Analytics
+Back,Voltar,module,Magento_AsynchronousOperations
+Done,Concluído,module,Magento_AsynchronousOperations
+Retry,"Tentar Novamente",module,Magento_AsynchronousOperations
+"'Action Details - #' .","'Detalhes da Ação - #'.",module,Magento_AsynchronousOperations
+"%1 item(s) have been scheduled for update.""","%1 item(ns)  foram agendados para atualização.",module,Magento_AsynchronousOperations
+"Bulk Actions Log","Log de ações em massa",module,Magento_AsynchronousOperations
+"Bulk uuid %bulkUuid not exist","Bulk uuid %bulkUuid not exist",module,Magento_AsynchronousOperations
+"Topic %1","Tópico %1",module,Magento_AsynchronousOperations
+"Something went wrong while processing the request.","Something went wrong while processing the request.",module,Magento_AsynchronousOperations
+"Error processing %key element of input data","Error processing %key element of input data",module,Magento_AsynchronousOperations
+"Sorry, something went wrong during product prices update. Please see log for details.","Desculpa, algo deu errado durante a atualização de preços do produto. Por favor, veja o log para obter detalhes.",module,Magento_AsynchronousOperations
+"%1 item(s) are currently being updated.","%1 Item (ns) estão sendo atualizados.",module,Magento_AsynchronousOperations
+"Task ""%1"":","Tarefa ""%1"":",module,Magento_AsynchronousOperations
+"%1 item(s) have been scheduled for update.","O(s) item(ns) %1 foram agendadas para atualização.",module,Magento_AsynchronousOperations
+"%1 item(s) have been successfully updated.","%1 Item (ns) foram atualizados com êxito.",module,Magento_AsynchronousOperations
+"%1 item(s) failed to update","%1 Item(ns) falharão ao atualizar",module,Magento_AsynchronousOperations
+Details,Detalhes,module,Magento_AsynchronousOperations
+"View Details","Ver Detalhes",module,Magento_AsynchronousOperations
+Dismiss,Ignorar,module,Magento_AsynchronousOperations
+"Pending, in queue...","Pendente, em fila...",module,Magento_AsynchronousOperations
+"%1 items selected for mass update","%1 itens selecionados para atualização em massa",module,Magento_AsynchronousOperations
+", %1 successfully updated",", %1 atualizado com sucesso",module,Magento_AsynchronousOperations
+", %1 failed to update",", %1 falha ao atualizar",module,Magento_AsynchronousOperations
+"Something went wrong.","Houve algum problema.",module,Magento_AsynchronousOperations
+"Action Log","Log de Ação",module,Magento_AsynchronousOperations
+Report,Report,module,Magento_AsynchronousOperations
+"Bulk Actions","Ações em massa",module,Magento_AsynchronousOperations
+"Action Logs","Action Logs",module,Magento_AsynchronousOperations
+"Days Saved in Log","Dias salvos em Log",module,Magento_AsynchronousOperations
+"Description of Operation","Descrição da operação",module,Magento_AsynchronousOperations
+Summary,Resumo,module,Magento_AsynchronousOperations
+"Start Time","Hora de Início",module,Magento_AsynchronousOperations
+"Items to Retry","Itens de repetição",module,Magento_AsynchronousOperations
+"To retry, select the items and click “Retry”.","Para repetir, selecione os itens e clique em ""Repetir"".",module,Magento_AsynchronousOperations
+"Items That Can’t Be Updated.","Itens que não podem ser atualizados.",module,Magento_AsynchronousOperations
+ID,ID,module,Magento_AsynchronousOperations
+Status,Status,module,Magento_AsynchronousOperations
+"Meta Information",Meta-informação,module,Magento_AsynchronousOperations
+Error,Erro,module,Magento_AsynchronousOperations
+"Dismiss All Completed Tasks","Ignorar todas as tarefas completas",module,Magento_AsynchronousOperations
+"Action Details - #","Detalhes de ação - #",module,Magento_AsynchronousOperations
+"Number of Records Affected","Número de registros afetados",module,Magento_AsynchronousOperations
+"The role wasn't found for the user. Verify the role and try again.","A função não foi encontrada para o usuário. Verifique a função e tente novamente.",module,Magento_Authorization
+"Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","Algo deu errado durante a compilação de uma lista de recursos permitidos. ' 'Você pode encontrar mais detalhes no log de exceções.",module,Magento_Authorization
+"You created the order.","Você criou o pedido.",module,Magento_Authorizenet
+"Order saving error: %1","Erro na gravação do pedido: %1",module,Magento_Authorizenet
+"Please choose a payment method.","Por favor, escolha um método de pagamento.",module,Magento_Authorizenet
+"We can't process your order right now. Please try again later.","Não foi possível processar seu pedido agora. Por favor, tente novamente mais tarde.",module,Magento_Authorizenet
+"A server error stopped your order from being placed. Please try to place your order again.","Um erro no servidor impediu que seu pedido fosse colocado. Por favor, tente fazer seu pedido novamente.",module,Magento_Authorizenet
+"Credit Card: xxxx-%1","Cartão de crédito: xxxx-%1",module,Magento_Authorizenet
+"amount %1","montante %1",module,Magento_Authorizenet
+failed.,falhou.,module,Magento_Authorizenet
+successful.,sucesso.,module,Magento_Authorizenet
+"Authorize.Net Transaction ID %1.","Authorize.Net ID da Transação %1.",module,Magento_Authorizenet
+authorize,autorizar,module,Magento_Authorizenet
+"authorize and capture","autorizar e capturar",module,Magento_Authorizenet
+capture,capturar,module,Magento_Authorizenet
+refund,reembolsar,module,Magento_Authorizenet
+void,anular,module,Magento_Authorizenet
+"Gateway error: %1","Erro no gateway: %1",module,Magento_Authorizenet
+"Something went wrong in the payment gateway.","Algo deu errado no gateway de pagamento.",module,Magento_Authorizenet
+"Invalid amount for capture.","Valor inválido para captura.",module,Magento_Authorizenet
+"Payment capturing error.","Erro na captura do pagamento.",module,Magento_Authorizenet
+"Invalid transaction ID.","ID da transação inválido.",module,Magento_Authorizenet
+"Payment voiding error.","Erro no cancelamento do pagamento.",module,Magento_Authorizenet
+"Invalid amount for refund.","Valor inválido para reembolso.",module,Magento_Authorizenet
+"Payment refunding error.","Erro no estorno do pagamento.",module,Magento_Authorizenet
+"The transaction was declined because the response hash validation failed.","A transação foi recusada porque a validação do hash da resposta falhou.",module,Magento_Authorizenet
+"This payment didn't work out because we can't find this order.","Este pagamento não processou porque o pedido não foi encontrado.",module,Magento_Authorizenet
+"There was a payment authorization error.","Houve um erro na autorização do pagamento.",module,Magento_Authorizenet
+"Please enter a transaction ID to authorize this payment.","Por favor, informe um ID de transação para autorizar este pagamento.",module,Magento_Authorizenet
+"Something went wrong: the paid amount doesn't match the order amount. Please correct this and try again.","Algo deu errado: a quantia paga não corresponde ao valor do pedido. Por favor verifique e tente novamente.",module,Magento_Authorizenet
+"Transaction %1 has been approved. Amount %2. Transaction status is ""%3""","Transação %1 foi aprovada. Valor %2. Status da transação é ""%3""",module,Magento_Authorizenet
+"Transaction %1 has been voided/declined. Transaction status is ""%2"". Amount %3.","Transação %1 foi anulada/recusada. Status da transação é ""%2"". Valor %3.",module,Magento_Authorizenet
+"Authorize Only","Apenas Autorizar",module,Magento_Authorizenet
+"Authorize and Capture","Autorizar e Capturar",module,Magento_Authorizenet
+"The transaction details are unavailable. Please try again later.","Os detalhes da transação estão indisponíveis. Tente novamente mais tarde.",module,Magento_Authorizenet
+"Electronic payments save the trees.","Pagamentos eletrônicos salvam árvores.",module,Magento_Authorizenet
+"Credit Card Type","Tipo do Cartão de Crédito",module,Magento_Authorizenet
+"Please Select","Por favor, selecione",module,Magento_Authorizenet
+"Credit Card Number","Número do Cartão de Crédito",module,Magento_Authorizenet
+"Expiration Date","Data de Validade",module,Magento_Authorizenet
+"Card Verification Number","Código de Verificação do Cartão",module,Magento_Authorizenet
+"Fraud Detection","Detecção de Fraudes",module,Magento_Authorizenet
+"FDS Filter Action","Ação do Filtro FDS",module,Magento_Authorizenet
+"AVS Response","Resposta AVS",module,Magento_Authorizenet
+"Card Code Response","Resposta do Código do Cartão",module,Magento_Authorizenet
+"CAVV Response","Resposta CAVV",module,Magento_Authorizenet
+"Fraud Filters","Filtros de fraude",module,Magento_Authorizenet
+"Place Order","Finalizar Pedido",module,Magento_Authorizenet
+"Sorry, but something went wrong. Please contact the seller.","Desculpe, mas algo deu errado. Por favor, entre em contato com o vendedor.",module,Magento_Authorizenet
+"Authorize.net Direct Post","Authorize.net Direct Post",module,Magento_Authorizenet
+Enabled,Habilitado,module,Magento_Authorizenet
+"Payment Action","Ação de Pagamento",module,Magento_Authorizenet
+Title,Título,module,Magento_Authorizenet
+"API Login ID","ID de Login da API",module,Magento_Authorizenet
+"Transaction Key","Chave de Transação",module,Magento_Authorizenet
+"Merchant MD5","MD5 do Comerciante",module,Magento_Authorizenet
+"New Order Status","Novo Status de Pedido",module,Magento_Authorizenet
+"Test Mode","Modo de Teste",module,Magento_Authorizenet
+"Gateway URL","URL do Gateway",module,Magento_Authorizenet
+"Transaction Details URL","URL dos Detalhes da Transação",module,Magento_Authorizenet
+"Accepted Currency","Moedas Aceitas",module,Magento_Authorizenet
+Debug,Depurar/Debug,module,Magento_Authorizenet
+"Email Customer","Enviar Email ao Cliente",module,Magento_Authorizenet
+"Merchant's Email","E-mail do Comerciante",module,Magento_Authorizenet
+"Credit Card Types","Tipo do Cartão de Crédito",module,Magento_Authorizenet
+"Credit Card Verification","Verificação do cartão de crédito",module,Magento_Authorizenet
+"Payment from Applicable Countries","Pagamento de Países Aplicáveis",module,Magento_Authorizenet
+"Payment from Specific Countries","Pagamento a partir de Países Específicos",module,Magento_Authorizenet
+"Minimum Order Total","Valor Mínimo do Pedido",module,Magento_Authorizenet
+"Maximum Order Total","Valor Total do Pedido",module,Magento_Authorizenet
+"Sort Order",Ordernação,module,Magento_Authorizenet
+Close,Fechar,module,Magento_B2b
+options,opções,module,Magento_B2b
+"Select all","Selecionar tudo",module,Magento_B2b
+"Deselect all","Desmarcar todos",module,Magento_B2b
+Cancel,Cancelar,module,Magento_B2b
+Done,Concluído,module,Magento_B2b
+"Please Select",Selecione...,module,Magento_B2b
+"%s of %s selected","%s de %s selecionados",module,Magento_B2b
+"B2B Features","Recursos B2B",module,Magento_B2b
+"Invalid Form Key. Please refresh the page.","Chave de formulário inválida. Por favor, atualize a página.",module,Magento_Backend
+"You entered an invalid Secret Key. Please refresh the page.","Você inseriu uma Chave Secreta inválida. Por favor, atualize a página.",module,Magento_Backend
+"Invalid security or form key. Please refresh the page.","Chave de segurança ou formulário inválido. Por favor, atualize a página.",module,Magento_Backend
+"Cache Storage Management","Gerenciamento de Cache",module,Magento_Backend
+"Flush Magento Cache","Liberar Cache do Magento",module,Magento_Backend
+"The cache storage may contain additional data. Are you sure that you want to flush it?","O cache armazenado pode conter dados adicionais. Você tem certeza que deseja liberá-lo?",module,Magento_Backend
+"Flush Cache Storage","Liberar Cache Armazenado",module,Magento_Backend
+Invalidated,Invalidado,module,Magento_Backend
+Orders,Pedidos,module,Magento_Backend
+Amounts,Montantes,module,Magento_Backend
+Bestsellers,"Mais Vendidos",module,Magento_Backend
+"Most Viewed Products","Produtos Mais Visualizados",module,Magento_Backend
+"New Customers","Novos Clientes",module,Magento_Backend
+Customers,Clientes,module,Magento_Backend
+Customer,Cliente,module,Magento_Backend
+Guest,Visitante,module,Magento_Backend
+Items,Itens,module,Magento_Backend
+Total,Total,module,Magento_Backend
+"Lifetime Sales","Vendas Acumuladas",module,Magento_Backend
+"Average Order","Ticket Médio",module,Magento_Backend
+Average,Média,module,Magento_Backend
+Product,Produto,module,Magento_Backend
+Price,Preço,module,Magento_Backend
+Quantity,Quantidade,module,Magento_Backend
+Views,Visões,module,Magento_Backend
+Revenue,Receita,module,Magento_Backend
+Tax,Taxa,module,Magento_Backend
+Shipping,Frete,module,Magento_Backend
+"Images (.gif, .jpg, .png)","Imagens (. gif,. jpg,. png)",module,Magento_Backend
+"Media (.avi, .flv, .swf)","Mídia (.avi, .flv, .swf)",module,Magento_Backend
+"All Files","Todos os Arquivos",module,Magento_Backend
+"Reset to Default","Voltar ao Padrão",module,Magento_Backend
+"All Store Views","Todas as Visões de Loja",module,Magento_Backend
+"What is this?","O que é isto?",module,Magento_Backend
+"Save Account","Salvar Conta",module,Magento_Backend
+"My Account","Minha Conta",module,Magento_Backend
+"Account Information","Informações da Conta",module,Magento_Backend
+"User Name","Nome de Usuário",module,Magento_Backend
+"First Name",Nome,module,Magento_Backend
+"Last Name",Sobrenome,module,Magento_Backend
+Email,E-mail,module,Magento_Backend
+"User Email","E-mail de Usuário",module,Magento_Backend
+"New Password","Nova Senha",module,Magento_Backend
+"Password Confirmation","Confirmação de Senha",module,Magento_Backend
+"Interface Locale","Idioma da interface",module,Magento_Backend
+"Current User Identity Verification","Verificação de identidade do usuário atual",module,Magento_Backend
+"Your Password","Sua Senha",module,Magento_Backend
+"Save Cache Settings","Salvar Configurações de Cache",module,Magento_Backend
+"Catalog Rewrites","Reescrita de Catálogo",module,Magento_Backend
+Refresh,Atualizar,module,Magento_Backend
+"Images Cache","Cache de Imagens",module,Magento_Backend
+Clear,Limpar,module,Magento_Backend
+"Search Index","Índice de Pesquisa",module,Magento_Backend
+Rebuild,Recriar,module,Magento_Backend
+"Inventory Stock Status","Status do Estoque",module,Magento_Backend
+"Rebuild Catalog Index","Reconstruir Índice do Catálogo",module,Magento_Backend
+"Rebuild Flat Catalog Category","Reconstruir Tabela Flat de Categoria",module,Magento_Backend
+"Rebuild Flat Catalog Product","Reconstruir Tabela Flat de Produtos",module,Magento_Backend
+"Cache Control","Controle de Cache",module,Magento_Backend
+"All Cache","Todo Cache",module,Magento_Backend
+"No change","Sem alteração",module,Magento_Backend
+Disable,Desabilitado,module,Magento_Backend
+Enable,Habilitado,module,Magento_Backend
+"Add Design Change","Adicionar Alteração de Design",module,Magento_Backend
+Back,Voltar,module,Magento_Backend
+Delete,Excluir,module,Magento_Backend
+"Are you sure?","Você tem certeza?",module,Magento_Backend
+Save,Salvar,module,Magento_Backend
+"Edit Design Change","Editar Mudança de Design",module,Magento_Backend
+"New Store Design Change","Nova Mudança de Design da Loja",module,Magento_Backend
+"General Settings","Configurações Gerais",module,Magento_Backend
+Store,Loja,module,Magento_Backend
+"-- Please Select --","-- Selecione uma opção --",module,Magento_Backend
+"Custom Design","Design Personalizado",module,Magento_Backend
+"Date From","Data De",module,Magento_Backend
+"Date To","Data Até",module,Magento_Backend
+"Design Change","Mudança de Design",module,Magento_Backend
+General,Geral,module,Magento_Backend
+Cancel,Cancelar,module,Magento_Backend
+"Delete %1 '%2'","Excluir %1 '%2'",module,Magento_Backend
+"Delete %1","Excluir %1",module,Magento_Backend
+"Block Information","Informação do Bloco",module,Magento_Backend
+"Backup Options","Opções de Backup",module,Magento_Backend
+No,Não,module,Magento_Backend
+Yes,Sim,module,Magento_Backend
+"Create DB Backup","Criar Backup do Banco",module,Magento_Backend
+"Delete Store","Apagar Loja",module,Magento_Backend
+"Delete Web Site","Apagar Website",module,Magento_Backend
+"Save Web Site","Salvar Website",module,Magento_Backend
+"Save Store","Salvar Loja",module,Magento_Backend
+"Save Store View","Salvar Visão de Loja",module,Magento_Backend
+"Delete Store View","Apagar Visão de Loja",module,Magento_Backend
+"Edit Web Site","Editar Website",module,Magento_Backend
+"New Web Site","Novo Website",module,Magento_Backend
+"Edit Store","Editar Loja",module,Magento_Backend
+"New Store","Nova Loja",module,Magento_Backend
+"Edit Store View","Editar Visão de Loja",module,Magento_Backend
+"New Store View","Nova Visão de Loja",module,Magento_Backend
+"Store Information","Informação da Loja",module,Magento_Backend
+"Web Site",Website,module,Magento_Backend
+Name,Nome,module,Magento_Backend
+Code,Código,module,Magento_Backend
+"Root Category","Categoria Principal",module,Magento_Backend
+"Default Store View","Visão de Loja Padrão",module,Magento_Backend
+"Store View Information","Informações da Visão de Loja",module,Magento_Backend
+Status,Status,module,Magento_Backend
+Disabled,Desabilitado,module,Magento_Backend
+Enabled,Habilitado,module,Magento_Backend
+"Sort Order",Ordernação,module,Magento_Backend
+"Web Site Information","Informação do Website",module,Magento_Backend
+"Default Store","Loja Padrão",module,Magento_Backend
+"Set as Default","Definir como Padrão",module,Magento_Backend
+Stores,Lojas,module,Magento_Backend
+"Create Website","Criar Website",module,Magento_Backend
+"Create Store","Criar Loja",module,Magento_Backend
+"Create Store View","Criar Visão de Loja",module,Magento_Backend
+Home,Home,module,Magento_Backend
+Reset,Reiniciar,module,Magento_Backend
+"Are you sure you want to do this?","Você tem que deseja fazer isso?",module,Magento_Backend
+label,rótulo,module,Magento_Backend
+"Add New Image","Adicionar Nova Imagem",module,Magento_Backend
+"Export block for grid %1 is not defined","Bloco de exportação para a grid %1 não foi definido",module,Magento_Backend
+"Reset Filter","Limpar Filtro",module,Magento_Backend
+Search,Pesquisa,module,Magento_Backend
+Any,Qualquer,module,Magento_Backend
+"All Countries","Todos os Países",module,Magento_Backend
+From,De,module,Magento_Backend
+To,Até,module,Magento_Backend
+"Date selector","Seletor de data",module,Magento_Backend
+"[ deleted ]","[ apagado ]",module,Magento_Backend
+"Select All","Selecionar Todos",module,Magento_Backend
+[deleted],[apagado],module,Magento_Backend
+"We couldn't find any records.","Não encontramos nenhum registro.",module,Magento_Backend
+"Add New","Adicionar Novo",module,Magento_Backend
+"Invalid export type supplied for grid export block","Tipo de exportação fornecido inválido para bloco de exportação de grade",module,Magento_Backend
+Export,Exportar,module,Magento_Backend
+"Please correct the column format and try again.","Por favor, corrija o formato da coluna e tente novamente.",module,Magento_Backend
+"An item needs to be selected. Select and try again.","Um item precisa ser selecionado. Selecione e tente novamente.",module,Magento_Backend
+Submit,Enviar,module,Magento_Backend
+"Unknown block type","Tipo de bloco desconhecido",module,Magento_Backend
+"Please correct the tab configuration and try again. Tab Id should be not empty","Por favor corrija a configuração de separadores e tente novamente. O Id do separador não deve estar vazio",module,Magento_Backend
+"Please correct the tab configuration and try again.","Corrija a configuração de tabulação e tente novamente.",module,Magento_Backend
+"You have logged out.","Você saiu.",module,Magento_Backend
+"These cache type(s) don't exist: %1","Este(s) tipo(s) de cache não existe: %1",module,Magento_Backend
+"The image cache was cleaned.","O cache de imagem foi limpo.",module,Magento_Backend
+"An error occurred while clearing the image cache.","Ocorreu um erro ao limpar o cache de imagem.",module,Magento_Backend
+"The JavaScript/CSS cache has been cleaned.","O cache do JavaScript/CSS foi limpo.",module,Magento_Backend
+"An error occurred while clearing the JavaScript/CSS cache.","Ocorreu um erro ao limpar o cache de JavaScript/CSS.",module,Magento_Backend
+"The static files cache has been cleaned.","O cache de arquivos estáticos foi limpo.",module,Magento_Backend
+"You flushed the cache storage.","Você liberou o armazenamento em cache.",module,Magento_Backend
+"The Magento cache storage has been flushed.","O armazenamento de cache do Magento foi liberado.",module,Magento_Backend
+"Cache Management","Gerenciamento de Cache",module,Magento_Backend
+"You can't change status of cache type(s) in production mode","Você não pode alterar o status do tipo(s) de cache em modo de produção",module,Magento_Backend
+"%1 cache type(s) disabled.","%1 tipos de cache estão desabilitados.",module,Magento_Backend
+"An error occurred while disabling cache.","Ocorreu um erro ao desabilitar o cache.",module,Magento_Backend
+"%1 cache type(s) enabled.","%1 tipos de cache habilitados.",module,Magento_Backend
+"An error occurred while enabling cache.","Ocorreu um erro ao habilitar o cache.",module,Magento_Backend
+"%1 cache type(s) refreshed.","%1 tipos de cache atualizados.",module,Magento_Backend
+"An error occurred while refreshing cache.","Ocorreu um erro ao atualizar o cache.",module,Magento_Backend
+Dashboard,"Painel de Controle",module,Magento_Backend
+"We updated lifetime statistic.","A estatística do ciclo de vida foi atualizada.",module,Magento_Backend
+"We can't refresh lifetime statistics.","Não foi possível atualizar a estatística do ciclo de vida.",module,Magento_Backend
+"invalid request","solicitação inválida",module,Magento_Backend
+"see error log for details","ver log de erro para detalhes",module,Magento_Backend
+"Service unavailable: %1","Serviço indisponível: %1",module,Magento_Backend
+Error,Erro,module,Magento_Backend
+"Access Denied.","Acesso Negado.",module,Magento_Backend
+"You need more permissions to do this.","Você precisa de permissões para fazer isso.",module,Magento_Backend
+"No search modules were registered","Nenhum módulo de pesquisa registrado",module,Magento_Backend
+"Please make sure that all global admin search modules are installed and activated.","Por favor, certifique-se de que todos os módulos de pesquisa de escopo global estão instalados e ativados.",module,Magento_Backend
+"You saved the account.","Você salvou a conta.",module,Magento_Backend
+"An error occurred while saving account.","Ocorreu um erro ao salvar a conta.",module,Magento_Backend
+"You deleted the design change.","Você excluiu a mudança de design.",module,Magento_Backend
+"You can't delete the design change.","Você não pode excluir a mudança de design.",module,Magento_Backend
+"Store Design","Design da Loja",module,Magento_Backend
+"Edit Store Design Change","Editar alteração do Design da Loja",module,Magento_Backend
+"You saved the design change.","Você gravou a alteração de design.",module,Magento_Backend
+System,Sistema,module,Magento_Backend
+"Manage Stores","Gerenciar Lojas",module,Magento_Backend
+"The database was backed up.","Backup do banco de dados realizado.",module,Magento_Backend
+"We can't create a backup right now. Please try again later.","Não foi possível criar um backup agora. Por favor, tente novamente mais tarde.",module,Magento_Backend
+"Deleting a %1 will not delete the information associated with the %1 (e.g. categories, products, etc.), but the %1 will not be able to be restored. It is suggested that you create a database backup before deleting the %1.","Excluir o %1 não excluirá as informações associadas com %1 (ex: categorias, produtos, etc.), mas o %1 não será capaz de ser restaurado. É recomendado que você crie um backup do banco de dados antes de excluir o %1.",module,Magento_Backend
+"Something went wrong. Please try again.","Algo deu errado. Por favor, tente novamente.",module,Magento_Backend
+"This store cannot be deleted.","Essa loja não pode ser excluída.",module,Magento_Backend
+"You deleted the store.","Você excluiu a Loja.",module,Magento_Backend
+"Unable to delete the store. Please try again later.","Não foi possível apagar a loja. Por favor tente mais tarde.",module,Magento_Backend
+"This store view cannot be deleted.","Essa visão de loja não pode ser excluída.",module,Magento_Backend
+"Store View","Visão de Loja",module,Magento_Backend
+"You deleted the store view.","Você excluiu a visão de loja.",module,Magento_Backend
+"Unable to delete the store view. Please try again later.","Não foi possível apagar a vista de loja. Por favor tente mais tarde.",module,Magento_Backend
+"This website cannot be deleted.","Esse website não pode ser excluído.",module,Magento_Backend
+"You deleted the website.","Você excluiu o website.",module,Magento_Backend
+"Unable to delete the website. Please try again later.","Não foi possível apagar o site. Por favor tente mais tarde.",module,Magento_Backend
+"The website does not exist.","O website não existe.",module,Magento_Backend
+"Before modifying the website code please make sure it is not used in index.php.","Antes de modificar o código do website, por favor, certifique-se de que ele não é usado no index.php.",module,Magento_Backend
+"The store does not exist","A loja não existe",module,Magento_Backend
+"Store view doesn't exist","Visão de loja inexistente",module,Magento_Backend
+"Before modifying the store view code please make sure it is not used in index.php.","Antes de modificar a visão de loja, por favor, certifique-se de que ela não é usada no index.php.",module,Magento_Backend
+New,Novo,module,Magento_Backend
+"All Stores","Todas as Lojas",module,Magento_Backend
+"You saved the website.","Você salvou o website.",module,Magento_Backend
+"The default store cannot be disabled","A loja padrão não pode ser desativada",module,Magento_Backend
+"You saved the store view.","Você salvou a visão de loja.",module,Magento_Backend
+"An inactive store view cannot be saved as default store view","Uma visão de loja inativo não pode ser salvo como exibição de loja padrão",module,Magento_Backend
+"You saved the store.","Você salvou a loja.",module,Magento_Backend
+"Something went wrong while saving. Please review the error log.","Algo deu errado ao salvar. Por favor, revise o log de erros.",module,Magento_Backend
+"Last 24 Hours","Últimas 24 horas",module,Magento_Backend
+"Last 7 Days","Últimos 7 Dias",module,Magento_Backend
+"Current Month","Mês atual",module,Magento_Backend
+YTD,"Acumulado no ano",module,Magento_Backend
+2YTD,"Acumulado nos últimos 2 anos",module,Magento_Backend
+"Authentication storage is incorrect.","Armazenamento de autenticação está incorreto.",module,Magento_Backend
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","O login da conta estava incorreto ou sua conta está desativada temporariamente. Por favor, espere e tente novamente mais tarde.",module,Magento_Backend
+"An authentication error occurred. Verify and try again.","Ocorreu um erro de autenticação. Verifique e tente novamente.",module,Magento_Backend
+"The Admin session lifetime is invalid. Set the lifetime to 31536000 seconds (one year) or shorter and try again.","O tempo de vida da sessão do Admin é inválido. Defina o tempo de vida para 31536000 segundos (um ano) ou mais curto e tente novamente.",module,Magento_Backend
+"The Admin session lifetime is invalid. Set the lifetime to 60 seconds or longer and try again.","O tempo de vida da sessão do Admin é inválido. Defina o tempo de vida para 60 segundos ou mais longo e tente novamente.",module,Magento_Backend
+Order,Pedido,module,Magento_Backend
+"Order #%1","Pedido #%1",module,Magento_Backend
+"Save &amp; Continue","Salvar &amp; Continuar",module,Magento_Backend
+"Save &amp; Close","Salvar &amp; Fechar",module,Magento_Backend
+"Save &amp; New","Salvar &amp; Novo",module,Magento_Backend
+Edit,Editar,module,Magento_Backend
+"Sorry, you need permissions to view this content.","Desculpa, você não tem permissão para visualizar este conteúdo.",module,Magento_Backend
+"Next steps","Próximos passos",module,Magento_Backend
+"If you think this is an error, try signing out and signing in again.","Se você acha que isto é um erro, tente deslogar e logar novamente.",module,Magento_Backend
+"Contact a system administrator or store owner to gain permissions.","Contacte o administrador de sistemas ou o dono da loja, para ter acesso.",module,Magento_Backend
+"Return to","Retornar para",module,Magento_Backend
+HTTP_REFERER,HTTP_REFERER,module,Magento_Backend
+"previous page","página anterior",module,Magento_Backend
+.,.,module,Magento_Backend
+javascript:history.back(),javascript:history.back(),module,Magento_Backend
+"Welcome, please sign in","Bem-vindo, por favor acesse",module,Magento_Backend
+Username,"Nome de Usuário",module,Magento_Backend
+"user name","nome de usuário",module,Magento_Backend
+Password,Senha,module,Magento_Backend
+password,senha,module,Magento_Backend
+"Sign in",Entrar,module,Magento_Backend
+"Select Range:","Selecione a escala:",module,Magento_Backend
+"No Data Found","Nenhum dado encontrado",module,Magento_Backend
+"Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.","Gráfico está desabilitado. Para habilitar o gráfico, clique <a href=""%1""> aqui</a>.",module,Magento_Backend
+"Last Orders","Últimos pedidos",module,Magento_Backend
+"Last Search Terms","Últimas palavras pesquisadas",module,Magento_Backend
+"Top Search Terms","Palavras mais pesquisadas",module,Magento_Backend
+"There are no search keywords.","Não há nenhuma palavra-chave na pesquisa.",module,Magento_Backend
+"View Statistics For:","Exibir Estatísticas para:",module,Magento_Backend
+"All Websites","Todos os sites",module,Magento_Backend
+"Reload Data","Recarregar dados",module,Magento_Backend
+"Browse Files...","Procurar Arquivos...",module,Magento_Backend
+Magento,Magento,module,Magento_Backend
+"Copyright &copy; %1 Magento Commerce Inc. All rights reserved.","Copyright &copy; %1 Magento Commerce Inc. Todos os direitos reservados.",module,Magento_Backend
+"ver. %1","versão %1",module,Magento_Backend
+"Magento Admin Panel","Painel de Admin do Magento",module,Magento_Backend
+"Account Setting","Configurações da Conta",module,Magento_Backend
+"Customer View","Visão do cliente",module,Magento_Backend
+"Sign Out","Sair",module,Magento_Backend
+"About the calendar","Sobre"
+"Very Strong","Muito forte"
+"Please specify product's required option(s).","Por favor especifique a (s) opção (ões) requerida (s) do produto."

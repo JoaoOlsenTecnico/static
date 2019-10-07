@@ -1,0 +1,107 @@
+#sizechartbox{
+    display: none;
+    position: fixed;
+    z-index: 999999;
+    background: rgba(0,0,0,0.6);
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+#sizechart{
+    position: absolute;
+    width: 700px;
+    height: auto;
+    top: 50%;
+    left: 50%;
+    margin: -250px 0 0 -350px;
+    z-index: 999999;
+    background: #fff;
+    padding: 20px;
+}
+#sizechartbox .country,
+#sizechartbox .sizechart-credits,
+#sizechartbox .measurements,
+#sizechartbox .notes{display:none;}
+.sizechartbox .left-column{
+    box-sizing: border-box;
+    float: left;
+    padding-right: 1%;
+    width: 70%;
+}
+.sizechartbox .right-column{
+    box-sizing: border-box;
+    float: right;
+    padding-left: 1%;
+    width: 30%;
+}
+.sizechartbox .right-column img{
+  width:100%;
+}
+#sizechart .results {
+    background-color: #c1c1c1;
+    color: #fff;
+    font-size: 1.2em;
+    text-align: center;
+    padding: 5px;
+}
+.sizechartbox .close-sizechart{
+    position: absolute;
+    right: 15px;
+    top: 15px;
+    font-size: 20px;
+}
+.sizechartbox .close-sizechart, .sizechartbox .close-sizechart img{
+  cursor: pointer;
+}
+.sizechartbox table > thead > tr > th,
+.sizechartbox table > tbody > tr > th,
+.sizechartbox table > tfoot > tr > th,
+.sizechartbox table > thead > tr > td,
+.sizechartbox table > tbody > tr > td,
+.sizechartbox table > tfoot > tr > td {
+    padding: 2px;
+    text-align: center;
+}
+
+.sizechartbox tr:nth-child(even) td {
+    background-color: #f5f5f5;
+}
+.sizechartbox tr:hover td {
+    background-color: #8c8c8c;
+    color:#fff;
+}
+#chart_values td.current {
+    font-size: 16px;
+    font-weight: bold;
+}
+#sizechart #chart_values tr.recomended-size td{
+    background-color: #a1a1a1;
+}
+.sizechartbox thead{
+  background-color: #000000!important;
+  color:#fff!important;
+}
+
+@media (max-width: 900px) {
+    .sizechartbox .left-column {
+        width: 100%;
+        float: none;
+    }
+    .sizechartbox .right-column {
+        width: 100%;
+        float: none;
+    }
+}
+@media (max-width: 768px) {
+    .modal-popup .modal-inner-wrap{
+        width: 95%;
+
+    }
+}
+@media (max-width: 360px) {
+    .modal-popup .modal-content {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+}

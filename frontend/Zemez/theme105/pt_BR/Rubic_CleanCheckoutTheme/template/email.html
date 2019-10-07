@@ -1,0 +1,22 @@
+<li id="email" data-bind="fadeVisible: isVisible">
+    <div class="step-title" data-bind="i18n: 'INFORME O E-MAIL'" data-role="title"></div>
+    <div id="checkout-step-title"
+         class="step-content"
+         data-role="content">
+
+        <each args="getRegion('login-methods')" render="" />
+
+        <form data-bind="submit: navigateToNextStep" class="form-next-step" novalidate="novalidate">
+            <div class="actions-toolbar">
+                <div class="primary">
+                    <button data-role="opc-continue" type="submit" class="button action continue primary">
+                      <span data-bind="i18n: 'Próximo'">Próximo</span>  
+                   
+                    </button>
+                </div>
+            </div>
+        </form>
+    </div>
+</li>
+
+

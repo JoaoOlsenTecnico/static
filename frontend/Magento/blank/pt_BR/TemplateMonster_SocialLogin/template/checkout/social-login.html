@@ -1,0 +1,17 @@
+<!-- ko if: isEnabled()-->
+<div class="field social-login">
+    <label class="label"><span data-bind="i18n: 'You can login using one of the social accounts provided below.'"></span></label>
+    <div class="control block-social-login">
+        <ul>
+            <!-- ko foreach: { data: getProviders(), as: 'provider' } -->
+                <li>
+                    <a href="#" data-bind="attr: {'data-post': provider.dataPost, class: provider.code}">
+                        <i data-bind="attr: {class: 'fa fa-' +  provider.code}"></i>
+                        <span class="label" data-bind="text: provider.label"></span>
+                    </a>
+                </li>
+            <!-- /ko -->
+        </ul>
+    </div>
+</div>
+<!-- /ko -->

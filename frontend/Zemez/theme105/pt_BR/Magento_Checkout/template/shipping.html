@@ -5,7 +5,7 @@
  */
 -->
 <li id="shipping" class="checkout-shipping-address" data-bind="fadeVisible: visible()">
-    <div class="step-title" translate="'Endereço de Entrega'" data-role="title" />
+    <div class="step-title" translate="'Shipping Address'" data-role="title" />
     <div id="checkout-step-shipping"
          class="step-content"
          data-role="content">
@@ -20,21 +20,17 @@
                     class="action action-show-popup"
                     click="showFormPopUp"
                     visible="!isNewAddressAdded()">
-                <span translate="'Novo endereço'" />
+                <span translate="'New Address'" />
             </button>
             <div id="opc-new-shipping-address"
                  visible="isFormPopUpVisible()"
                  render="shippingFormTemplate" />
         </if>
-        
-          
+
         <each args="getRegion('before-form')" render="" />
-        
-        
-        <div id="haha">
+
         <!-- Inline address form -->
-          <render if="isFormInline" args="shippingFormTemplate" />
-        </div>
+        <render if="isFormInline" args="shippingFormTemplate" />
     </div>
 </li>
 
@@ -45,7 +41,7 @@
     role="presentation">
     <div class="checkout-shipping-method">
         <div class="step-title"
-             translate="'Métodos de Envio'"
+             translate="'Shipping Methods'"
              data-role="title" />
 
         <each args="getRegion('before-shipping-method-form')" render="" />
@@ -74,14 +70,14 @@
                 <div class="actions-toolbar" id="shipping-method-buttons-container">
                     <div class="primary">
                         <button data-role="opc-continue" type="submit" class="button action continue primary">
-                            <span translate="'Próximo'" />
+                            <span translate="'Next'" />
                         </button>
                     </div>
                 </div>
             </form>
             <div class="no-quotes-block"
                  ifnot="rates().length > 0"
-                 translate="'Desculpe, não há cotações disponíveis para este pedido no momento'" />
+                 translate="'Sorry, no quotes are available for this order at this time'" />
         </div>
     </div>
 </li>

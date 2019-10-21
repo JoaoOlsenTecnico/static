@@ -41,5 +41,3 @@ define([
 
     return $.mage.shoppingCart;
 });
-
-

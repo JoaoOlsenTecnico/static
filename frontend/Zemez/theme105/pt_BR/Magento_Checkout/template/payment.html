@@ -19,7 +19,7 @@
             <input data-bind='attr: {value: getFormKey()}' type="hidden" name="form_key"/>
             <fieldset class="fieldset">
                 <legend class="legend">
-                    <span data-bind="i18n: 'Informação de pagamento'"></span>
+                    <span data-bind="i18n: 'Payment Information'"></span>
                 </legend><br />
                 <!-- ko foreach: getRegion('beforeMethods') -->
                     <!-- ko template: getTemplate() --><!-- /ko -->
@@ -30,7 +30,7 @@
                     <!-- /ko -->
                 </div>
                 <div class="no-quotes-block" data-bind="visible: isPaymentMethodsAvailable() == false">
-                    <!-- ko i18n: 'Nenhum método de pagamento disponível.'--><!-- /ko -->
+                    <!-- ko i18n: 'No Payment method available.'--><!-- /ko -->
                 </div>
                 <!-- ko foreach: getRegion('afterMethods') -->
                     <!-- ko template: getTemplate() --><!-- /ko -->
